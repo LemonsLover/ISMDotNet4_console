@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "ArrayActions/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/ArrayActions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ArrayActions.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ArrayActions/1.0.0": {
+      "type": "project",
+      "path": "../ArrayActions/ArrayActions.csproj",
+      "msbuildProject": "../ArrayActions/ArrayActions.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "ArrayActions >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\dizon\\.nuget\\packages\\": {}
@@ -13,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dizon\\Desktop\\New folder\\ISMDotNet3\\Task\\Task.csproj",
+      "projectUniqueName": "C:\\Users\\dizon\\Desktop\\ISMDotNet4\\ISMDotNet4\\Task\\Task.csproj",
       "projectName": "Task",
-      "projectPath": "C:\\Users\\dizon\\Desktop\\New folder\\ISMDotNet3\\Task\\Task.csproj",
+      "projectPath": "C:\\Users\\dizon\\Desktop\\ISMDotNet4\\ISMDotNet4\\Task\\Task.csproj",
       "packagesPath": "C:\\Users\\dizon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dizon\\Desktop\\New folder\\ISMDotNet3\\Task\\obj\\",
+      "outputPath": "C:\\Users\\dizon\\Desktop\\ISMDotNet4\\ISMDotNet4\\Task\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dizon\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -32,7 +51,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\dizon\\Desktop\\ISMDotNet4\\ISMDotNet4\\ArrayActions\\ArrayActions.csproj": {
+              "projectPath": "C:\\Users\\dizon\\Desktop\\ISMDotNet4\\ISMDotNet4\\ArrayActions\\ArrayActions.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

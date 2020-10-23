@@ -1,0 +1,9 @@
+C:\Users\dizon\Desktop\ISMDotNet4\ISMDotNet4\ArrayActions\bin\Debug\netstandard2.0\ArrayActions.deps.json
+C:\Users\dizon\Desktop\ISMDotNet4\ISMDotNet4\ArrayActions\bin\Debug\netstandard2.0\ArrayActions.dll
+C:\Users\dizon\Desktop\ISMDotNet4\ISMDotNet4\ArrayActions\bin\Debug\netstandard2.0\ArrayActions.pdb
+C:\Users\dizon\Desktop\ISMDotNet4\ISMDotNet4\ArrayActions\obj\Debug\netstandard2.0\ArrayActions.csprojAssemblyReference.cache
+C:\Users\dizon\Desktop\ISMDotNet4\ISMDotNet4\ArrayActions\obj\Debug\netstandard2.0\ArrayActions.AssemblyInfoInputs.cache
+C:\Users\dizon\Desktop\ISMDotNet4\ISMDotNet4\ArrayActions\obj\Debug\netstandard2.0\ArrayActions.AssemblyInfo.cs
+C:\Users\dizon\Desktop\ISMDotNet4\ISMDotNet4\ArrayActions\obj\Debug\netstandard2.0\ArrayActions.csproj.CoreCompileInputs.cache
+C:\Users\dizon\Desktop\ISMDotNet4\ISMDotNet4\ArrayActions\obj\Debug\netstandard2.0\ArrayActions.dll
+C:\Users\dizon\Desktop\ISMDotNet4\ISMDotNet4\ArrayActions\obj\Debug\netstandard2.0\ArrayActions.pdb

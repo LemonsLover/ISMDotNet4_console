@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iku6ooDTtD+5rjaKpaLstS/gqIFZpQve1XzJyGRqpbkeUToPPiZ9kGd4VTRtK/81A9HlD3M9BBpOPGfVTcld7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dizon\\Desktop\\ISMDotNet4\\ISMDotNet4\\ArrayActions\\ArrayActions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dizon\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\dizon\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
